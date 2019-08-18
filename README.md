@@ -37,6 +37,9 @@ print(newMap.finder('A','E')) .   # Find shortest distance and
                                   # path between two nodes
 
 ```
+## Output:
+----------------
+![t.o](https://raw.githubusercontent.com/biswanathamz/affnine_deltaleaf/master/src/image/Screenshot%202019-08-18%20at%209.05.56%20PM.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
