@@ -1,0 +1,8 @@
+README.md
+setup.py
+affnine_deltaleaf/__init__.py
+affnine_deltaleaf/afn_algo.py
+affnine_deltaleaf.egg-info/PKG-INFO
+affnine_deltaleaf.egg-info/SOURCES.txt
+affnine_deltaleaf.egg-info/dependency_links.txt
+affnine_deltaleaf.egg-info/top_level.txt
