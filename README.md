@@ -3,7 +3,7 @@ Easy way to create MAP (Undirected Graph)and find shortest path from one Node to
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install affnine-deltaleaf.
 
 ```bash
 pip install affnine-deltaleaf
