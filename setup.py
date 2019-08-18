@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="affnine_deltaleaf",
-    version="0.1",
+    version="0.2",
     author="Biswanath Saha",
     author_email="biswanathamz@gmail.com",
     description="Easy way to create MAP (Undirected Graph)and find shortest path from one Node to another.",
