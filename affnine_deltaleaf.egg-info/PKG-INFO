@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: affnine-deltaleaf
-Version: 0.1
+Version: 0.2
 Summary: Easy way to create MAP (Undirected Graph)and find shortest path from one Node to another.
-Home-page: UNKNOWN
+Home-page: https://github.com/biswanathamz/affnine_deltaleaf
 Author: Biswanath Saha
 Author-email: biswanathamz@gmail.com
 License: UNKNOWN
@@ -45,6 +45,9 @@ Description: # Affnine deltaleaf
                                           # path between two nodes
         
         ```
+        ## Output:
+        ----------------
+        ![t.o](https://raw.githubusercontent.com/biswanathamz/affnine_deltaleaf/master/src/image/Screenshot%202019-08-18%20at%209.05.56%20PM.png)
         
         ## Contributing
         Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -53,6 +56,7 @@ Description: # Affnine deltaleaf
         
         ## License
         [MIT](https://choosealicense.com/licenses/mit/)
+        
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License

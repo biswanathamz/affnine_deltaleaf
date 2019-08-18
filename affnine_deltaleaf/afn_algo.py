@@ -1,4 +1,3 @@
-
 #.........................................................................................................................................
 import sys
 class createNewMap:
@@ -194,7 +193,7 @@ class deltaLeaf(dacMatrixCreator):
             path.append(var_flag1)
             start_pos=var_flag1
 
-    def finder(self,start_,end_):
+    def finder(self,start_,end_):    #This function will be called from main
         res=[]
         res_=[]
         res=self.finder_(start_,end_)

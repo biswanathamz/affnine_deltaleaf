@@ -11,7 +11,7 @@ setuptools.setup(
     description="Easy way to create MAP (Undirected Graph)and find shortest path from one Node to another.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/biswanathamz/affnine_deltaleaf",
     packages=['affnine_deltaleaf'],
     classifiers=[
         "Programming Language :: Python :: 3",
