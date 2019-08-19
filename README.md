@@ -1,5 +1,10 @@
 # Affnine deltaleaf
-Easy way to create MAP (Undirected Graph)and find shortest path from one Node to another.
+[![GitHub Floow](https://img.shields.io/github/followers/biswanathamz?label=Follow&style=social)](https://github.com/biswanathamz)
+[![Last commit](https://img.shields.io/github/last-commit/biswanathamz/affnine_deltaleaf)](https://github.com/biswanathamz)
+[![python version](https://img.shields.io/pypi/pyversions/3)](https://github.com/biswanathamz)
+
+
+Easy way to create a MAP (Undirected Graph)and find the shortest path from one Node to another.
 
 ## Installation
 
@@ -9,7 +14,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install affnine
 pip install affnine-deltaleaf
 ```
 
-## Quick start
+## Quickstart
 
 ```python
 import affnine_deltaleaf as afn_spf 
@@ -40,6 +45,7 @@ print(newMap.finder('A','E')) .   # Find shortest distance and
 ## Output:
 ----------------
 ![t.o](https://raw.githubusercontent.com/biswanathamz/affnine_deltaleaf/master/src/image/Screenshot%202019-08-18%20at%209.05.56%20PM.png)
+
 
 ## GitHub - Link
 [affnine-deltaleaf](https://github.com/biswanathamz/affnine_deltaleaf)
