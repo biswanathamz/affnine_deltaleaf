@@ -12,7 +12,7 @@ pip install affnine-deltaleaf
 ## Quick start
 
 ```python
-import affnine_deltaleaf
+import affnine_deltaleaf as afn_spf 
 
 newMap=afn_spf.deltaLeaf()         #create a object of affnine deltaleaf
 
